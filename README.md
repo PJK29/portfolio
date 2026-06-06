@@ -1,11 +1,12 @@
+  # Portfolio 
 
-  # Portfolio UI/UX Redesign
+  deployment link: https://portfolio-git-main-pjk-29-s-projects.vercel.app/
 
-  This is a code bundle for Portfolio UI/UX Redesign. The original project is available at https://www.figma.com/design/IcDT8VDXxcvVwZV9tRtpCA/Portfolio-UI-UX-Redesign.
-
+  This is a code bundle for Portfolio UI/UX Redesign.Theme and prototyping done by using Figma and Figma make.
+  
   ## Running the code
-
+  
   Run `npm i` to install the dependencies.
-
+  
   Run `npm run dev` to start the development server.
   
